@@ -1,1 +1,3 @@
-boss,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
+boss,xdong95,Dong,Xiangsen
+employee,xtang254,Tang,Xupeng
